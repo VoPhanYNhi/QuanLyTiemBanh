@@ -1,0 +1,9 @@
+F:\HK2_NAM3\LTQL\QuanLyTiemBanh\QuanLyTiemBanh\QuanLyTiemBanh\DAO\bin\Debug\DAO.dll
+F:\HK2_NAM3\LTQL\QuanLyTiemBanh\QuanLyTiemBanh\QuanLyTiemBanh\DAO\bin\Debug\DAO.pdb
+F:\HK2_NAM3\LTQL\QuanLyTiemBanh\QuanLyTiemBanh\QuanLyTiemBanh\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+F:\HK2_NAM3\LTQL\QuanLyTiemBanh\QuanLyTiemBanh\QuanLyTiemBanh\DAO\obj\Debug\DAO.dll
+F:\HK2_NAM3\LTQL\QuanLyTiemBanh\QuanLyTiemBanh\QuanLyTiemBanh\DAO\obj\Debug\DAO.pdb
+F:\HK2_NAM3\LTQL\QuanLyTiemBanh\QuanLyTiemBanh\QuanLyTiemBanh\DAO\bin\Debug\DTO.dll
+F:\HK2_NAM3\LTQL\QuanLyTiemBanh\QuanLyTiemBanh\QuanLyTiemBanh\DAO\bin\Debug\DTO.pdb
+F:\HK2_NAM3\LTQL\QuanLyTiemBanh\QuanLyTiemBanh\QuanLyTiemBanh\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+F:\HK2_NAM3\LTQL\QuanLyTiemBanh\QuanLyTiemBanh\QuanLyTiemBanh\DAO\obj\Debug\DAO.csproj.CopyComplete

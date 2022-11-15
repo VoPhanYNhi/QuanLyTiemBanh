@@ -1,0 +1,11 @@
+F:\HK2_NAM3\LTQL\QuanLyTiemBanh\QuanLyTiemBanh\QuanLyTiemBanh\BUS\bin\Debug\BUS.dll
+F:\HK2_NAM3\LTQL\QuanLyTiemBanh\QuanLyTiemBanh\QuanLyTiemBanh\BUS\bin\Debug\BUS.pdb
+F:\HK2_NAM3\LTQL\QuanLyTiemBanh\QuanLyTiemBanh\QuanLyTiemBanh\BUS\bin\Debug\DAO.dll
+F:\HK2_NAM3\LTQL\QuanLyTiemBanh\QuanLyTiemBanh\QuanLyTiemBanh\BUS\bin\Debug\DTO.dll
+F:\HK2_NAM3\LTQL\QuanLyTiemBanh\QuanLyTiemBanh\QuanLyTiemBanh\BUS\bin\Debug\DAO.pdb
+F:\HK2_NAM3\LTQL\QuanLyTiemBanh\QuanLyTiemBanh\QuanLyTiemBanh\BUS\bin\Debug\DTO.pdb
+F:\HK2_NAM3\LTQL\QuanLyTiemBanh\QuanLyTiemBanh\QuanLyTiemBanh\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+F:\HK2_NAM3\LTQL\QuanLyTiemBanh\QuanLyTiemBanh\QuanLyTiemBanh\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+F:\HK2_NAM3\LTQL\QuanLyTiemBanh\QuanLyTiemBanh\QuanLyTiemBanh\BUS\obj\Debug\BUS.csproj.CopyComplete
+F:\HK2_NAM3\LTQL\QuanLyTiemBanh\QuanLyTiemBanh\QuanLyTiemBanh\BUS\obj\Debug\BUS.dll
+F:\HK2_NAM3\LTQL\QuanLyTiemBanh\QuanLyTiemBanh\QuanLyTiemBanh\BUS\obj\Debug\BUS.pdb

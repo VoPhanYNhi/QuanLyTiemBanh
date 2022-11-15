@@ -1,0 +1,6 @@
+F:\HK2_NAM3\LTQL\QuanLyTiemBanh\QuanLyTiemBanh\QuanLyTiemBanh\DTO\bin\Debug\DTO.dll
+F:\HK2_NAM3\LTQL\QuanLyTiemBanh\QuanLyTiemBanh\QuanLyTiemBanh\DTO\bin\Debug\DTO.pdb
+F:\HK2_NAM3\LTQL\QuanLyTiemBanh\QuanLyTiemBanh\QuanLyTiemBanh\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+F:\HK2_NAM3\LTQL\QuanLyTiemBanh\QuanLyTiemBanh\QuanLyTiemBanh\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+F:\HK2_NAM3\LTQL\QuanLyTiemBanh\QuanLyTiemBanh\QuanLyTiemBanh\DTO\obj\Debug\DTO.dll
+F:\HK2_NAM3\LTQL\QuanLyTiemBanh\QuanLyTiemBanh\QuanLyTiemBanh\DTO\obj\Debug\DTO.pdb
